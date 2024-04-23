@@ -1,16 +1,39 @@
-# resume_builder
+# Resume Builder App
 
-A new Flutter project.
+## Overview
+Resume Builder is a Flutter application designed to streamline the process of creating professional resumes on mobile devices. Whether you're a job seeker, freelancer, or simply need to update your resume, this app offers a user-friendly interface to input your information and generate polished resumes effortlessly.
 
-## Getting Started
+## Features
+- **User-friendly Interface:** Intuitive design for seamless resume creation.
+- **Multiple Sections:** Add and edit various sections such as contact info, career objective, education, experience, skills, projects, achievements, and references.
+- **Customization:** Tailor the design and layout of your resume to your preferences.
+- **PDF Generation:** Generate resumes in PDF format for easy sharing and printing.
+- **Offline Support:** Create and edit resumes without an internet connection.
+- **Responsive Design:** Ensures compatibility across different screen sizes and orientations.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
+- PDF generation libraries
+- SQLite database
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+1. Clone the repository: `git clone https://github.com/yourusername/resume-builder.git`
+2. Navigate to the project directory: `cd resume-builder`
+3. Install dependencies: `flutter pub get`
+4. Run the app: `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage
+1. Launch the app on your mobile device.
+2. Input your information into the respective sections.
+3. Customize the design and layout as needed.
+4. Preview your resume and generate it in PDF format.
+5. Share or print your resume directly from the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## Screen Shorts
+
+![ajay](https://github.com/AjayToliya/Resumer/assets/149996384/80f97fbc-6821-4562-a6a9-c63f8efdac85)
+
