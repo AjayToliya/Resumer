@@ -36,5 +36,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## Screen Shorts
 
 ![ajay](https://github.com/AjayToliya/Resumer/assets/149996384/80f97fbc-6821-4562-a6a9-c63f8efdac85)
-![Screenshot_20240424_111737 (1)](https://github.com/AjayToliya/Resumer/assets/149996384/6dce1694-c337-44e1-a224-a6c3176f89b2)
 
+![Screenshot_20240424_111737](https://github.com/AjayToliya/Resumer/assets/149996384/1ec9c40d-8e08-4770-8a07-4034fee09efd)
